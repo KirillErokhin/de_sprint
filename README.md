@@ -1,2 +1,3 @@
 # DE_sprint
-Repo for 1T sprint course
+
+Репозиторий для проектов и задач курса Data Engineer
